@@ -33,7 +33,7 @@
 <br><br>
 
 ## OBJECTIVE
-Optimise the user experience to meet their needs and developing efficient and innovative services to achieve business goals
+Optimise the user experience to meet their needs and develop efficient and innovative services to achieve business goals
 <br>&#38;<br>
 Stay on track with deadlines and programme-level goals
 
