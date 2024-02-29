@@ -156,7 +156,13 @@ DATA
 </a>
 <br>
 
+<!--Eating Data Snake-->
 <img src="https://github.com/JamesHJ0137/JamesHJ0137/blob/output/github-snake.svg" width="100%">
+
+<!--Hits-->
+<div align="center">
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJamesHJ0137&count_bg=%23BCA2E5&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</div>
 
 <!--Footer-->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
