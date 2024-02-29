@@ -9,7 +9,7 @@
 <br>
 <!-- My CV/resume -->
 <details>
-<summary>About Me</summary>
+<summary>Click Me</summary>
   <span>
   <a href="https://JamesHJ0137.github.io">
     <img src="https://img.shields.io/badge/GitHub Blog-black?style=plastic&logo=GitHub Sponsors&logoColor=white"/>
