@@ -35,7 +35,7 @@
 ## OBJECTIVE
 Optimise the user experience to meet their needs and develop efficient and innovative services to achieve business goals
 <br>&#38;<br>
-Stay on track with deadlines and programme-level goals
+Collaborate with stakeholders and stay on track with deadlines and programme-level goals
 
 <!--
 ## WORK EXPERIENCE
@@ -48,7 +48,6 @@ Yonsei University, Seoul/Digital Image Media Lab ```(09/2021 ~ Present)```
 ## EDUCATION
 Bachelor Degree of Human Resource Management ```(09/2017 ~ 08/2020)``` (The University of Bradford, UK)   
 Master Degree of Management of Information Systems 	&#38; Digital Innovation ```(09/2022 ~ 12/2023)``` (Warwick Business School, UK)  
-<br><br>
 
 ## ADDITIONAL SKILLS
 OFFICE
@@ -84,52 +83,77 @@ OFFICE
 <span>
     <img src="https://img.shields.io/badge/Obsidian-483699?style=plastic&logo=Obsidian&logoColor=white"/>
 </span>
-<br>
+<br><br>
 
 DESIGN
 <br>
+<!--figma-->
 <span>
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white"/>
 </span>
+<!--framer-->
 <span>
     <img src="https://img.shields.io/badge/Framer-black?style=plastic&logo=framer&logoColor=blue"/>
 </span>
+<!--canva-->
 <span>
     <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=plastic&logo=Canva&logoColor=white"/>
 </span>
-<br>
+<br><br>
 
 PROGRAMMING
 <br>
+<!--html-->
 <span>
     <img src="https://img.shields.io/badge/ HTML-orange?style=plastic&logo=HTML5&logoColor=white"/>
 </span>
+<!--css-->
 <span>
     <img src="https://img.shields.io/badge/ CSS-skyblue?style=plastic&logo=CSS3&logoColor=white"/>
 </span>
+<!--jQuery-->
 <span>
     <img src="https://img.shields.io/badge/ jQuery-white?style=plastic&logo=jQuery&logoColor=black"/>
 </span>
+<!--js-->
 <span>
     <img src="https://img.shields.io/badge/ JavaScript-yellow?style=plastic&logo=JavaScript&logoColor=white"/>
 </span>
+<!--java-->
 <span>
     <img src="https://img.shields.io/badge/ Java-red?style=plastic&logo=Java&logoColor=white"/>
 </span>
-<br>
+<br><br>
 
 DATA
 <br>
+<!--mysql-->
 <span>
     <img src="https://img.shields.io/badge/MySQL-005C84?style=plastic&logo=mysql&logoColor=white"/>
 </span>
+<!--tableau-->
 <span>
     <img src="https://img.shields.io/badge/Tableau-E97627?style=plastic&logo=Tableau&logoColor=white"/>
 </span>
+<!--rstudio-->
 <span>
     <img src="https://img.shields.io/badge/RStudio-75AADB?style=plastic&logo=RStudio&logoColor=white"/>
 </span>
 <br><br>
+
+</div>
+</div>
+</detail>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JamesHJ0137&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+</a>    
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=JamesHJ0137&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
+</a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=JamesHJ0137&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+</a>
 
 <!--Footer-->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
