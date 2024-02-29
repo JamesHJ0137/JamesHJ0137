@@ -49,6 +49,9 @@ Yonsei University, Seoul/Digital Image Media Lab ```(09/2021 ~ Present)```
 Bachelor Degree of Human Resource Management ```(09/2017 ~ 08/2020)``` (The University of Bradford, UK)   
 Master Degree of Management of Information Systems 	&#38; Digital Innovation ```(09/2022 ~ 12/2023)``` (Warwick Business School, UK)  
 
+## CERTIFICATE
+Google Data Analytics Professional Certificate ```(issue date : 02/2024)``` (Coursera)
+
 ## ADDITIONAL SKILLS
 OFFICE
 <!--MS Word-->
